@@ -2,11 +2,11 @@
 
 /**
  * main - This prints a text
- * Return:f succesful it'll return to 0
+ * Return: if succesful it'll return to 0
  */
 
 int main(void)
 {
-	printf(u"with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
